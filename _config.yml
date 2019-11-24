@@ -1,4 +1,5 @@
 theme: jekyll-theme-slate
+title: Planet in a Bottle
 plugins:
   - jekyll-relative-links
 relative_links:
