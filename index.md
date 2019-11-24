@@ -1,3 +1,3 @@
-#Planet in a Bottle</h1>
+# Planet in a Bottle
 
-Test site
+[Play Planet in a Bottle on Android](https://play.google.com/store/apps/details?id=com.pseudoblue.planet)
