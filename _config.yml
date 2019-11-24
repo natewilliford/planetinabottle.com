@@ -5,7 +5,7 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+google_analytics: UA-153197658-1
 include:
   - index.md
   - privacypolicy.md
-  
